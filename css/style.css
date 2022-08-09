@@ -36,6 +36,66 @@ ul{
 /* membership end */
 
 /* guide start */
+.guide__custom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 115px;
+}
+.guide__title{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 150px;
+    font-size: 112px;
+    text-align: center;
+    color: #692340;
+}
+.guide__text{
+    width: 450px;
+    margin: auto;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 44px;
+    font-size: 39px;
+    color: #692340;
+    text-align: center;
+}
+.guide__about{
+    margin: auto;
+    width: 470px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 22px;
+    font-size: 16px;
+    color: #692340;
+    text-align: center;
+}
+.custom__title-2{
+    width: 465px;
+    margin: auto;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 54px;
+    font-size: 54px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #692340
+}
+.custom__text-2{
+    margin: auto;
+    width: 661px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 30px;
+    font-size: 20px;
+    color: #692340;
+    text-align: center;
+}
 
 
 /* guide end */
