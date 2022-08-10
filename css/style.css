@@ -102,8 +102,46 @@ ul{
 
 
 /* info start */
-
-
+.info__in{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info__title{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 44px;
+    font-size: 40px;
+    color: #692340;
+    margin-bottom: 22px;
+}
+.info__text{
+    width: 429px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 22px;
+    font-size: 16px;
+    color: #692340;
+    margin-bottom: 20px;
+}
+.info__text-box{
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.infotext{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 22px;
+    font-size: 16px;
+    color: #692340;
+}
+.info__img-2{
+    margin-bottom: 43px;
+}
 /* info end */
 
 
